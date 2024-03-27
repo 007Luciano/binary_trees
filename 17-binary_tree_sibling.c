@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_sibling - Finds the sibling of a node 
+ * binary_tree_sibling - Finds the sibling of a node
  * @node: A pointer to the node to find the sibling of
  * Return: NULL or a pointer to the sibling
  */
